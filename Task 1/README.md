@@ -178,6 +178,8 @@ The WorkSync is a standalone web application, integrating with external services
 
 > * **SEQUENCE DIAGRAM**
 
+<img src="images/5. Sequence Diagram_page-0001.jpg">
+
 > * **ENTITY-RELATIONSHIP DIAGRAM**
 <img src="images/6. ER Diagram.png" alt="ER Diagram">
 
